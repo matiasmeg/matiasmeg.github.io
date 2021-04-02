@@ -1,6 +1,17 @@
 ## Bienvenbido a mi GitHub Pages
 
-Mi nombre es Matías Ezequiel González y aquí encontrarás repositorios relacionados con el desarrollo de proyectos _frontend_ principalmente. 
+Mi nombre es Matías Ezequiel González y aquí encontrarás repositorios relacionados con el desarrollo de proyectos _frontend_. 
+
+###Lenguajes que manejo:
+
+```Markdown
+- HTML 5
+- CSS 3
+- Javascript
+
+###Framework:
+- Bootstap
+```
 
 You can use the [editor on GitHub](https://github.com/matiasmeg/matiasmeg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
