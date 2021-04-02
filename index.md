@@ -2,20 +2,22 @@
 
 Mi nombre es Matías Ezequiel González y aquí encontrarás repositorios relacionados con el desarrollo de proyectos _frontend_. 
 
-###Lenguajes que manejo:
+### Skills:
 
 ```Markdown
 - HTML 5
 - CSS 3
 - Javascript
-
-###Framework:
 - Bootstap
 ```
 
-You can use the [editor on GitHub](https://github.com/matiasmeg/matiasmeg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Algunos de mis proyectos:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Puedes visitar la siguiente [página de Estudio Jurídico](https://matiasmeg.github.io/estudio-juridico/).
+
+Ver la siguiente [página de empresa distribuidora de alimentos](https://matiasmeg.github.io/distribuidora_alimentos/).
+
+Ver la siguiente [página de delivery de comidas](https://matiasmeg.github.io/delivery-app/)
 
 ### Markdown
 
