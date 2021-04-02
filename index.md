@@ -29,5 +29,5 @@ Ver la siguiente [página de delivery de comidas](https://matiasmeg.github.io/de
 ### Soporte o contacto
 
 1.  [Github pages](https://docs.github.com/categories/github-pages-basics/). 
-2.  [contacto github](https://support.github.com/contact).
-3.  Markdown [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2.  [Contacto github](https://support.github.com/contact).
+3.  Markdown: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
