@@ -26,8 +26,8 @@ Ver la siguiente [página de delivery de comidas](https://matiasmeg.github.io/de
 ![Notebook](https://www.inc.cl/wp-content/uploads/2017/04/codigo-web.jpg)
 
 
-Más detalles de Markdown [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Soporte o contacto
 
-[documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1.  [Github pages](https://docs.github.com/categories/github-pages-basics/). 
+2.  [contacto github](https://support.github.com/contact).
+3.  Markdown [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
