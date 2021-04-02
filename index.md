@@ -2,11 +2,15 @@
 
 Mi nombre es Matías Ezequiel González y aquí encontrarás repositorios relacionados con el desarrollo de proyectos _frontend_. 
 
+### Linkedin:
+
+[Mi linkedin](https://www.linkedin.com/in/matias-ezequiel-gonzalez-1a157a70/)
+
 ### Skills:
 
 ```Markdown
-- HTML 5
-- CSS 3
+- HTML5
+- CSS3
 - Javascript
 - Bootstap
 ```
