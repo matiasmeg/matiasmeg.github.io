@@ -23,9 +23,8 @@ Ver la siguiente [página de empresa distribuidora de alimentos](https://matiasm
 
 Ver la siguiente [página de delivery de comidas](https://matiasmeg.github.io/delivery-app/)
 
-### Markdown
+![Notebook](https://www.inc.cl/wp-content/uploads/2017/04/codigo-web.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
