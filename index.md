@@ -1,6 +1,6 @@
 ## Bienvenbido a mi GitHub Pages
 
-Mi nombre es Matías Ezequiel González y aquí encontrarás repositorios relacionados con el desarrollo de proyectos _frontend_. 
+Mi nombre es Matías Ezequiel González y aquí encontrarás mis repositorios, relacionados con el desarrollo de proyectos _frontend_. 
 
 ### Linkedin:
 
